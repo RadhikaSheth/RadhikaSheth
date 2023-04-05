@@ -1,10 +1,10 @@
 ### Hi :wave: I am Radhika 
 
- A computer science student that not only loves to code but also likes to share. Yupp! I am blogger :zap:
+ A passionate software developer that not only loves to code but also likes to share. Yupp! I am blogger :zap:
  
  I am a self learner and I am motivated to learn new technologies. 
  
- I have worked with Frontend (react-js, next-js) as well as Backend (SpringBoot, Django) Technologies. 
+ I have worked with Frontend (react-js, react-native next-js) as well as Backend (SpringBoot, Django) Technologies. 
  
  Catch me on :
  * [Medium](https://shethradhika9.medium.com/)
